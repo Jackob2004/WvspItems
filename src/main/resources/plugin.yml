@@ -1,0 +1,12 @@
+name: WvspItems
+version: '${project.version}'
+main: me.shadow_warrior_.wvspitems.WvspItems
+api-version: 1.19
+authors: [ shadow_warrior ]
+description: Wvsp Items
+commands:
+  tot435236:
+    usage: <command>
+  a34534:
+    usage: <command>
+
